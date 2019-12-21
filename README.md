@@ -3,7 +3,7 @@ Repository containing all files related to HW5 for Application Methods for Data 
 
 ## Group members
 
-We are group n°24 composed of:
+We are group n°24:
 
 - Luca Scofano
 - Debodeep Banerjee 

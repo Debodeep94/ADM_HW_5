@@ -11,3 +11,10 @@ We are group n°24:
 ## Content
 
 - main.ipynb : 
+
+## NB:
+Since we used Folium as the library to display the output, Github won't display it. A solution is to use this site:
+- https://nbviewer.jupyter.org/
+
+And paste this URL:
+- https://github.com/Debodeep94/ADM_HW_5/blob/master/main.ipynb 

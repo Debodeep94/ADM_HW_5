@@ -22,3 +22,5 @@ Since we used Folium as the library to display the output, Github won't display 
 And paste these URL:
 - https://github.com/Debodeep94/ADM_HW_5/blob/master/main.ipynb 
 - https://github.com/Debodeep94/ADM_HW_5/blob/master/ADM_functionality_4.ipynb
+
+#### PS: You might have to zoom in the plots a bit, we decided that initially they should show the entire California.

@@ -1,4 +1,4 @@
-# ADM-HW5
+# Create the Map
 Repository containing all files related to HW5 for Application Methods for Data Mining course 2019-2020
 
 ## Group members
